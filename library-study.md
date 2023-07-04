@@ -1,6 +1,6 @@
 图书馆的增删改查
 ### 编写数据库book
-```
+```sql
 create table t_book(
 `id` int primary key auto_increment,
 `name` varchar(100),
